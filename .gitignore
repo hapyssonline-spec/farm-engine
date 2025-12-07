@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Виртуальные окружения
+venv/
+.env/
+.env*/
+env/
+
+# IDE/редакторы
+.vscode/
+.idea/
